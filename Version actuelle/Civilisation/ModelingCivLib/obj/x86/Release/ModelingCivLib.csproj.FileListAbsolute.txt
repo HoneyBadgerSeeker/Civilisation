@@ -1,0 +1,5 @@
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\ModelingCivLib\bin\x86\Release\ModelingCivLib.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\ModelingCivLib\bin\x86\Release\ModelingCivLib.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\ModelingCivLib\obj\x86\Release\ModelingCivLib.csprojResolveAssemblyReference.cache
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\ModelingCivLib\obj\x86\Release\ModelingCivLib.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\ModelingCivLib\obj\x86\Release\ModelingCivLib.pdb

@@ -1,0 +1,13 @@
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\Civilisation\bin\Release\Civilisation.exe.config
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\Civilisation\bin\Release\Civilisation.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\Civilisation\bin\Release\Civilisation.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\Civilisation\obj\Release\Civilisation.csprojResolveAssemblyReference.cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\Civilisation\obj\Release\MainWindow.baml
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\Civilisation\obj\Release\MainWindow.g.cs
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\Civilisation\obj\Release\App.g.cs
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\Civilisation\obj\Release\Civilisation_MarkupCompile.cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\Civilisation\obj\Release\Civilisation.g.resources
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\Civilisation\obj\Release\Civilisation.Properties.Resources.resources
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\Civilisation\obj\Release\Civilisation.csproj.GenerateResource.Cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\Civilisation\obj\Release\Civilisation.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\Civilisation\obj\Release\Civilisation.pdb

@@ -1,0 +1,14 @@
+﻿<Window x:Class="Civilisation.Menu_principal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Civilisation" Height="145" Width="300"
+        WindowStartupLocation="Manual" 
+        Left="300" Top="300">
+    <Grid HorizontalAlignment="Left" Height="114" VerticalAlignment="Top" Width="292">
+        <Button Content="Nouvelle partie" Click="nouvelle_partie_Bouton" HorizontalAlignment="Left" Margin="66,24,0,0" VerticalAlignment="Top" Width="157" Background="White" BorderBrush="#FF959595"/>
+        <Button Content="Quitter"  Click="quitter_Bouton" HorizontalAlignment="Left" Margin="66,65,0,0" VerticalAlignment="Top" Width="157" Background="#00DDDDDD" BorderBrush="#FF919191" Foreground="Black"/>
+
+    </Grid>
+
+
+</Window>

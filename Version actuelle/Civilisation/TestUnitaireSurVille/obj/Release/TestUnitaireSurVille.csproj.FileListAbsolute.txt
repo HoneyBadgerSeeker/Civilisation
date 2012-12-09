@@ -1,0 +1,9 @@
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\TestUnitaireSurVille\bin\Release\TestUnitaireSurVille.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\TestUnitaireSurVille\bin\Release\TestUnitaireSurVille.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\TestUnitaireSurVille\bin\Release\Civilisation.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\TestUnitaireSurVille\bin\Release\ModelingCivLib.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\TestUnitaireSurVille\bin\Release\Civilisation.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\TestUnitaireSurVille\bin\Release\ModelingCivLib.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\TestUnitaireSurVille\obj\Release\TestUnitaireSurVille.csprojResolveAssemblyReference.cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\TestUnitaireSurVille\obj\Release\TestUnitaireSurVille.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\TestUnitaireSurVille\obj\Release\TestUnitaireSurVille.pdb

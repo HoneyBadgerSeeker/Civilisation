@@ -1,0 +1,13 @@
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\Civilisation\bin\x86\Release\Civilisation.exe.config
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\Civilisation\bin\x86\Release\Civilisation.exe
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\Civilisation\bin\x86\Release\Civilisation.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\Civilisation\obj\x86\Release\Civilisation.csprojResolveAssemblyReference.cache
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\Civilisation\obj\x86\Release\MainWindow.baml
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\Civilisation\obj\x86\Release\MainWindow.g.cs
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\Civilisation\obj\x86\Release\App.g.cs
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\Civilisation\obj\x86\Release\Civilisation_MarkupCompile.cache
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\Civilisation\obj\x86\Release\Civilisation.g.resources
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\Civilisation\obj\x86\Release\Civilisation.Properties.Resources.resources
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\Civilisation\obj\x86\Release\Civilisation.csproj.GenerateResource.Cache
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\Civilisation\obj\x86\Release\Civilisation.exe
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\Civilisation\obj\x86\Release\Civilisation.pdb

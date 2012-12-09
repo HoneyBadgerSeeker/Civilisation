@@ -1,0 +1,31 @@
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestPoidsMouche\bin\Release\TestPoidsMouche.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestPoidsMouche\bin\Release\TestPoidsMouche.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestPoidsMouche\bin\Release\ModelingCivLib.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestPoidsMouche\bin\Release\ModelingCivLib.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestPoidsMouche\obj\Release\TestPoidsMoucheCarte.csprojResolveAssemblyReference.cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestPoidsMouche\obj\Release\TestPoidsMouche.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestPoidsMouche\obj\Release\TestPoidsMouche.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_03_12_12_interface\TestPoidsMouche\bin\Release\TestPoidsMouche.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_03_12_12_interface\TestPoidsMouche\bin\Release\TestPoidsMouche.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_03_12_12_interface\TestPoidsMouche\bin\Release\ModelingCivLib.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_03_12_12_interface\TestPoidsMouche\bin\Release\ModelingCivLib.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_03_12_12_interface\TestPoidsMouche\obj\Release\TestPoidsMoucheCarte.csprojResolveAssemblyReference.cache
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_03_12_12_interface\TestPoidsMouche\obj\Release\TestPoidsMouche.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_03_12_12_interface\TestPoidsMouche\obj\Release\TestPoidsMouche.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestPoidsMouche\obj\Release\TestPoidsMoucheCarte.csprojResolveAssemblyReference.cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestPoidsMouche\obj\Release\TestPoidsMouche.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestPoidsMouche\bin\Release\TestPoidsMouche.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestPoidsMouche\bin\Release\TestPoidsMouche.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestPoidsMouche\bin\Release\ModelingCivLib.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestPoidsMouche\bin\Release\ModelingCivLib.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestPoidsMouche\obj\Release\TestPoidsMouche.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestPoidsMouche\bin\Release\Wrapper_AlgorithmeCPP.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestPoidsMouche\bin\Release\Wrapper_AlgorithmeCPP.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestPoidsMouche\bin\Release\TestPoidsMouche.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestPoidsMouche\bin\Release\TestPoidsMouche.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestPoidsMouche\bin\Release\ModelingCivLib.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestPoidsMouche\bin\Release\Wrapper_AlgorithmeCPP.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestPoidsMouche\bin\Release\ModelingCivLib.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestPoidsMouche\bin\Release\Wrapper_AlgorithmeCPP.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestPoidsMouche\obj\Release\TestPoidsMouche.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestPoidsMouche\obj\Release\TestPoidsMouche.pdb

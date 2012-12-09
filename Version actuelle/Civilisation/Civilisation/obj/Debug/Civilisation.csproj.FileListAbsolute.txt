@@ -1,0 +1,28 @@
+c:\users\pilpo\documents\visual studio 2012\Projects\Civilisation\Civilisation\bin\Debug\Civilisation.exe.config
+c:\users\pilpo\documents\visual studio 2012\Projects\Civilisation\Civilisation\bin\Debug\Civilisation.exe
+c:\users\pilpo\documents\visual studio 2012\Projects\Civilisation\Civilisation\bin\Debug\Civilisation.pdb
+c:\users\pilpo\documents\visual studio 2012\Projects\Civilisation\Civilisation\obj\Debug\MainWindow.baml
+c:\users\pilpo\documents\visual studio 2012\Projects\Civilisation\Civilisation\obj\Debug\MainWindow.g.cs
+c:\users\pilpo\documents\visual studio 2012\Projects\Civilisation\Civilisation\obj\Debug\App.g.cs
+c:\users\pilpo\documents\visual studio 2012\Projects\Civilisation\Civilisation\obj\Debug\Civilisation_MarkupCompile.cache
+c:\users\pilpo\documents\visual studio 2012\Projects\Civilisation\Civilisation\obj\Debug\Civilisation.g.resources
+c:\users\pilpo\documents\visual studio 2012\Projects\Civilisation\Civilisation\obj\Debug\Civilisation.Properties.Resources.resources
+c:\users\pilpo\documents\visual studio 2012\Projects\Civilisation\Civilisation\obj\Debug\Civilisation.csproj.GenerateResource.Cache
+c:\users\pilpo\documents\visual studio 2012\Projects\Civilisation\Civilisation\obj\Debug\Civilisation.exe
+c:\users\pilpo\documents\visual studio 2012\Projects\Civilisation\Civilisation\obj\Debug\Civilisation.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_19_11_12\Civilisation\Civilisation\bin\Debug\Civilisation.exe.config
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_19_11_12\Civilisation\Civilisation\bin\Debug\Civilisation.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_19_11_12\Civilisation\Civilisation\bin\Debug\Civilisation.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_19_11_12\Civilisation\Civilisation\obj\Debug\Civilisation.csprojResolveAssemblyReference.cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_19_11_12\Civilisation\Civilisation\obj\Debug\MainWindow.baml
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_19_11_12\Civilisation\Civilisation\obj\Debug\MainWindow.g.cs
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_19_11_12\Civilisation\Civilisation\obj\Debug\App.g.cs
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_19_11_12\Civilisation\Civilisation\obj\Debug\Civilisation_MarkupCompile.cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_19_11_12\Civilisation\Civilisation\obj\Debug\Civilisation.g.resources
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_19_11_12\Civilisation\Civilisation\obj\Debug\Civilisation.Properties.Resources.resources
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_19_11_12\Civilisation\Civilisation\obj\Debug\Civilisation.csproj.GenerateResource.Cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_19_11_12\Civilisation\Civilisation\obj\Debug\Civilisation.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_19_11_12\Civilisation\Civilisation\obj\Debug\Civilisation.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\Civilisation\bin\Debug\Civilisation.exe.config
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\Civilisation\obj\Debug\Civilisation.exe
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\Civilisation\obj\Debug\Civilisation.pdb
