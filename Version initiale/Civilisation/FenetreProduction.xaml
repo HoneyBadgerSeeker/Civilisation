@@ -1,0 +1,47 @@
+﻿<Window x:Class="Civilisation.FenetreProduction"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Civilisation : Production de la ville" Height="350" Width="300" Background="#FF787070"
+        WindowStartupLocation="Manual" 
+        Left="350" Top="350"
+        >
+    <Canvas HorizontalAlignment="Left" Width="292">
+        
+        <!-- Ressource de la ville -->
+        <Label HorizontalContentAlignment="Center" Content="Ressource de la ville" Width="292" Canvas.Top="10"/>
+        <Grid Height="71"  Canvas.Top="25" Width="292">
+            <Label Content="Ressource en minerai" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="136"/>
+            <Label Content="Ressource en nourriture" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
+            <Label Name="label_ville_fer" HorizontalAlignment="Left" Margin="151,10,0,0" VerticalAlignment="Top" Height="26" Width="37"/>
+            <Label Name="label_ville_nourriture" HorizontalAlignment="Left" Margin="151,41,0,0" VerticalAlignment="Top" Height="26" Width="37"/>
+        </Grid>
+
+        <!-- Production en cours de la ville -->
+        <Label HorizontalContentAlignment="Center" Content="Production en cours" Width="151" Canvas.Top="96"/>
+        <Label Name="label_ville_production_en_cours" HorizontalContentAlignment="Center" Width="292" Canvas.Top="122" Height="26"/>
+        <Button Name="button_annuler_production" Content="Annuler la production" Canvas.Left="146" Canvas.Top="101" Width="134" Height="21" Click="Button_click_annuler_prod_en_cours" Background="White"/>
+
+        <!-- Production possible de la ville -->
+        <Label HorizontalContentAlignment="Center" Content="Unité à produire" Width="146" Canvas.Top="153"/>
+        <Button Name="button_prod_dir" Content="Directeur" Canvas.Top="179" Width="141" Height="25" Canvas.Left="10" Background="White" Click="Button_click_creerDirecteur"/>
+        <Button Name="button_prod_ens" Content="Enseignant" Canvas.Top="203" Width="141" Height="25" Canvas.Left="10" Background="White" Click="Button_click_creerEnseignant"/>
+        <Button Name="button_prod_etu" Content="Etudiant" Canvas.Top="227" Width="141" Height="25" Canvas.Left="10" Background="White" Click="Button_click_creerEtudiant"/>
+        <Label HorizontalContentAlignment="Center" Content="Coût en fer de l'unité" Width="146" Canvas.Top="153" Canvas.Left="146"/>
+        
+        <!-- Directeur cout -->
+        <Label Name="label_cout_fer_directeur"  HorizontalContentAlignment="Center" Canvas.Left="156" Canvas.Top="179" Height="25" Width="126"/>
+
+        <!-- Enseignant cout -->
+        <Label Name="label_cout_fer_enseignant" HorizontalContentAlignment="Center" Canvas.Left="156" Canvas.Top="204" Height="24" Width="126" />
+
+        <!-- Etudant cout -->
+        <Label Name="label_cout_fer_etudiant" HorizontalContentAlignment="Center" Canvas.Left="156" Canvas.Top="228" Height="24" Width="126"/>
+
+        <!-- Quitter la fenetre -->
+        <Button Content="Revenir sur la carte" Canvas.Left="10" Canvas.Top="272" Width="262" Height="30" Background="White" Click="Button_click_revenir_sur_carte"/>
+        
+
+    </Canvas>
+
+
+</Window>
