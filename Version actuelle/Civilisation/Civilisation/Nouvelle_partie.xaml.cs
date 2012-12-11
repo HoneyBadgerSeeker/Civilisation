@@ -59,62 +59,106 @@ namespace Civilisation
         }
 
         // creation de la partie
-        private void Button_Click_lancer_partie(object sender, RoutedEventArgs e) // quand le joueur clique sur lancer la partie on présume qu'il a rempli tout les champs
+        private unsafe void Button_Click_lancer_partie(object sender, RoutedEventArgs e) // quand le joueur clique sur lancer la partie on présume qu'il a rempli tout les champs
         {
+
+            Joueur j1 = null;
+            Joueur j2 = null;
+            Joueur j3 = null;
+            Joueur j4 = null;
+
             // creation et ajout des joueurs dans la liste des joueurs
 
             if ((bool)chkActiveJ1.IsChecked)
             {
                 if ((bool)j1info.IsChecked) // si info est coché alors le joueur est info
                 {
-                    _liste_joueur_courant.Add(new Joueur(textbox_joueur1.Text, new Info(textbox_civilisation1.Text)));
+                    j1 = new Joueur(textbox_joueur1.Text, new Info(textbox_civilisation1.Text));
+                    _liste_joueur_courant.Add(j1);
                 }
                 else // sinon il est Eii
                 {
-                    _liste_joueur_courant.Add(new Joueur(textbox_joueur1.Text, new Eii(textbox_civilisation1.Text)));
+                    j1 = new Joueur(textbox_joueur1.Text, new Eii(textbox_civilisation1.Text));
+                    _liste_joueur_courant.Add(j1);
                 }
+                
             }
             if ((bool)chkActiveJ2.IsChecked)
             {
                 if ((bool)j2info.IsChecked) // si info est coché alors le joueur est info
                 {
-                    _liste_joueur_courant.Add(new Joueur(textbox_joueur2.Text, new Info(textbox_civilisation2.Text)));
+                    j2 = new Joueur(textbox_joueur2.Text, new Info(textbox_civilisation2.Text));
+                    _liste_joueur_courant.Add(j2);
                 }
                 else // sinon il est Eii
                 {
-                     _liste_joueur_courant.Add(new Joueur(textbox_joueur2.Text, new Eii(textbox_civilisation2.Text)));
+                    j2 = new Joueur(textbox_joueur2.Text, new Eii(textbox_civilisation2.Text));
+                     _liste_joueur_courant.Add(j2);
                 }
+                
             }
             if ((bool)chkActiveJ3.IsChecked)
             {
                 if ((bool)j3info.IsChecked) // si info est coché alors le joueur est info
                 {
-                     _liste_joueur_courant.Add(new Joueur(textbox_joueur3.Text, new Info(textbox_civilisation3.Text)));
+                    j3 = new Joueur(textbox_joueur3.Text, new Info(textbox_civilisation3.Text));
+                     _liste_joueur_courant.Add(j3);
                 }
                 else // sinon il est Eii
                 {
-                     _liste_joueur_courant.Add(new Joueur(textbox_joueur3.Text, new Eii(textbox_civilisation3.Text)));
+                    j3 = new Joueur(textbox_joueur3.Text, new Eii(textbox_civilisation3.Text));
+                    _liste_joueur_courant.Add(j3);
                 }
             }
             if ((bool)chkActiveJ4.IsChecked)
             {
                 if ((bool)j4info.IsChecked) // si info est coché alors le joueur est info
                 {
-                     _liste_joueur_courant.Add(new Joueur(textbox_joueur4.Text, new Info(textbox_civilisation4.Text)));
+                    j4 = new Joueur(textbox_joueur4.Text, new Info(textbox_civilisation4.Text));
+                     _liste_joueur_courant.Add(j4);
                 }
                 else // sinon il est Eii
                 {
-                    _liste_joueur_courant.Add(new Joueur(textbox_joueur4.Text, new Eii(textbox_civilisation4.Text)));
+                   j4 = new Joueur(textbox_joueur4.Text, new Eii(textbox_civilisation4.Text));
+                    _liste_joueur_courant.Add(j4);
                 }
             }
 
+         
+            // creation de la partie
             _partie = _monteur.creerNouvellePartie(_taille, _liste_joueur_courant);
 
+            // ajout des unités de début de partie à chaque joueur
+            // recuperation des positions de chaque joueurs
+            int* tab_placement_j = _partie._carte._algo.rend_placement_joueurs();
+
+            // on regarde que les joueurs existent bien
+            if (j1 != null && j2 != null) // si oui on lui ajoute les unités de base
+            {
+                j1._liste_unite.Add(j1._fabrique.creerEtudiant(tab_placement_j[0],tab_placement_j[1]));
+                j1._liste_unite.Add(j1._fabrique.creerEnseignant(tab_placement_j[0], tab_placement_j[1]));
+                j2._liste_unite.Add(j2._fabrique.creerEtudiant(tab_placement_j[2], tab_placement_j[3]));
+                j2._liste_unite.Add(j2._fabrique.creerEnseignant(tab_placement_j[2], tab_placement_j[3]));
+            }
+            if (j3 != null && j4 != null) 
+            {
+                j3._liste_unite.Add(j3._fabrique.creerEtudiant(tab_placement_j[4], tab_placement_j[5]));
+                j3._liste_unite.Add(j3._fabrique.creerEnseignant(tab_placement_j[4], tab_placement_j[5]));
+                j4._liste_unite.Add(j4._fabrique.creerEtudiant(tab_placement_j[6], tab_placement_j[7]));
+                j4._liste_unite.Add(j4._fabrique.creerEnseignant(tab_placement_j[6], tab_placement_j[7]));
+            }
+
+            // creation de la fenetre du jeu
             MainWindow jeu = new MainWindow(_partie);
+
             jeu.Show();
             this.Close();
 
         }
+
+
+            
+
 
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {

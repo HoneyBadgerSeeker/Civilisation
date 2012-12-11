@@ -76,6 +76,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Carte\PoidsMoucheTexturesUnites\FabriqueTexturesUnites.cs" />
     <Compile Include="FenetreProduction.xaml.cs">
       <DependentUpon>FenetreProduction.xaml</DependentUpon>
     </Compile>
@@ -182,6 +183,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\fond_menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\directeur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enseignant.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\etudiant.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -121,6 +121,15 @@
   <data name="desert" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\desert.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="directeur" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\directeur.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="enseignant" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\enseignant.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="etudiant" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\etudiant.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="fer" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\fer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>

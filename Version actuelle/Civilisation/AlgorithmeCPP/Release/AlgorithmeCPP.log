@@ -1,4 +1,4 @@
-﻿La génération a démarré 09/12/2012 15:04:53.
+﻿La génération a démarré 10/12/2012 22:49:38.
      1>Projet "C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_fenetre_prod_ok\AlgorithmeCPP\AlgorithmeCPP.vcxproj" sur le nœud 2 (Build cible(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt algo_carte.cpp
@@ -11,4 +11,4 @@
 
 La génération a réussi.
 
-Temps écoulé 00:00:04.13
+Temps écoulé 00:00:01.27

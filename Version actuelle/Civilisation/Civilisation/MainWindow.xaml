@@ -21,7 +21,7 @@
     </Window.Resources>
     
     <Canvas>
-        <ScrollViewer HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible" Height="407" Width="684">
+        <ScrollViewer Name="scrollbar" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible" Height="407" Width="684">
             <Grid Name="carteGrid" Background="#FF90BFBF">
                 <Rectangle Style="{StaticResource selectionStyle}" Name="selectionRectangle" />
             </Grid>

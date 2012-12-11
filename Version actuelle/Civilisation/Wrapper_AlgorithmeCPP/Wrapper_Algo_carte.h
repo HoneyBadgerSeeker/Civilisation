@@ -17,6 +17,7 @@ namespace Wrapper {
 		int* cases_a_suggerees(int x_colon, int y_colon) { algo_carte->cases_a_suggerees(x_colon,y_colon); return algo_carte->_cases_suggerees; }
 		int rend_ressource_fer_une_case(int x, int y){ return algo_carte->rend_ressource_fer_une_case(x,y); };
 		int rend_ressource_nourriture_une_case(int x, int y){ return algo_carte->rend_ressource_nourriture_une_case(x,y); };
+		int* rend_placement_joueurs(){ return algo_carte->_placement_joueurs;}
 	};
 }
 

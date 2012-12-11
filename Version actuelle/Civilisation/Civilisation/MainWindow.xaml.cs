@@ -20,6 +20,10 @@ using PMonteurPartie;
 using PJoueur;
 using PCivilisation;
 using PPartie;
+using PInterfaces_Fabrique_Abstraite;
+using PImplInfo;
+using PImplEii;
+
 namespace Civilisation
 {
     /// <summary>
@@ -30,7 +34,7 @@ namespace Civilisation
 
         // fabrique des textures
         FabriqueTexturesCases _fabriqueTextures;
-
+        FabriqueTexturesUnites _fabriqueTexturesUnites;
         // contient les types des cases de la carte
         int* _tabInt_carte;
 
@@ -43,6 +47,7 @@ namespace Civilisation
         // ville selectionnee
         Ville _ville_sel;
         
+        // constructeur de la fenetre principale du jeu
         public unsafe MainWindow(Partie partie)
         {
             InitializeComponent();
@@ -58,7 +63,20 @@ namespace Civilisation
 
             // initialisation de la fabrique de texture
             _fabriqueTextures = new FabriqueTexturesCases();
+
+            // initialisation de la fabrique de texture des unités
+            _fabriqueTexturesUnites = new FabriqueTexturesUnites();
+
+
+
         }
+
+        /************************************************************************************************/
+        /************************************************************************************************/
+        /************************************************************************************************/
+        /************************************************************************************************/
+        /* Affichage de la carte et des unités */
+
         private unsafe void Window_Loaded(object sender, RoutedEventArgs e)
         {
             // on initialise la Grid (mapGrid défini dans le xaml) à partir de la map du modèle (engine)
@@ -75,16 +93,54 @@ namespace Civilisation
                     // dans chaque case de la grille on ajoute une tuile (logique) matérialisée par un rectangle (physique)
                     // le rectangle possède une référence sur sa tuile
                     var tile = _tabInt_carte[l * _taille + c];
-                    var elementA = createRectangleTerrain(c, l, tile);
-                    carteGrid.Children.Add(elementA); // On ajoute les terrains
+                    var rectangle_case = createRectangleTerrain(c, l, tile);
+                    carteGrid.Children.Add(rectangle_case); // On ajoute les terrains
                     if (tile != PConstantes.TypeCase.DESERT && tile != PConstantes.TypeCase.MONTAGNE && tile != PConstantes.TypeCase.PLAINE)
                     {
-                        var elementB = createRectangleRessource(c, l, tile);
-                        carteGrid.Children.Add(elementB); // On ajoute les ressources
+                        var rectangle_ressource = createRectangleRessource(c, l, tile);
+                        carteGrid.Children.Add(rectangle_ressource); // On ajoute les ressources
                     }
 
                 }
             }
+
+            // ajout des unités sur la carte
+            foreach (Joueur j in _partie._liste_joueurs) // NE PAS OUBLIER DE GERER LES COULEURS DES JOUEUUUURS
+            {                                               // peut correspondre à une méthode a par entiere mise la juste pour tester
+                // creation d'une couleur ici
+                // a chaque tour de boucle on en crée une nouvelle
+                /**/
+
+                foreach (Unite u in j._liste_unite)
+                {
+                    if (u is EtudiantEii || u is EtudiantInfo)
+                    {
+                        var rectangle_unite = createRectangleUnite(u._posx_unite, u._posy_unite, PConstantes.TypeUnite.ETUDIANT);
+                        carteGrid.Children.Add(rectangle_unite);
+                    }
+                    else if (u is DirecteurEii || u is DirecteurInfo)
+                    {
+                        var rectangle_unite = createRectangleUnite(u._posx_unite, u._posy_unite, PConstantes.TypeUnite.DIRECTEUR);
+                        carteGrid.Children.Add(rectangle_unite);
+                    }
+                    else if (u is EnseignantEii || u is EnseignantInfo)
+                    {
+                        var rectangle_unite = createRectangleUnite(u._posx_unite, u._posy_unite, PConstantes.TypeUnite.ENSEIGNANT);
+                        carteGrid.Children.Add(rectangle_unite);
+                    }
+
+                    // ajout de la couleur sur la case ici
+
+                    /**/
+
+                }
+            }
+
+            // position de la camera sur la premiere unite de la liste du joueur courant
+            Unite u1 = _partie._joueurCourant._liste_unite.ElementAt(0);
+            //scrollbar.ScrollToHorizontalOffset(1000);
+            //scrollbar.ScrollToHorizontalOffset(carteGrid.Height * (u1._posy_unite) / _taille);
+
         }
 
         // Rend un rectangle contenant les textures des terrains
@@ -115,6 +171,28 @@ namespace Civilisation
             return rectangle;
         }
 
+        // Rend un rectangle contenant les textures des unités
+        private Rectangle createRectangleUnite(int c, int l, int unite)
+        {
+            var rectangle = new Rectangle();
+            rectangle.Fill = _fabriqueTexturesUnites.obtenirTextureUnite(unite);
+            // mise à jour des attributs (column et Row) référencant la position dans la grille à rectangle
+            Grid.SetColumn(rectangle, c);
+            Grid.SetRow(rectangle, l);
+            rectangle.Tag = unite; // Tag : ref par defaut sur la tuile logique
+
+            // ajouter aussi un handler pour le clavier! -> gerer les deplacements
+
+            // selection de la case via la souris
+            rectangle.MouseLeftButtonDown += new MouseButtonEventHandler(rectangle_MouseLeftButtonDown);
+            return rectangle;
+        }
+
+        /************************************************************************************************/
+        /************************************************************************************************/
+        /************************************************************************************************/
+        /************************************************************************************************/
+        /* Handler */
 
         void rectangle_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
         {
@@ -176,6 +254,9 @@ namespace Civilisation
             FenetreProduction fenetre = new FenetreProduction(_ville_sel, _partie._joueurCourant);
             fenetre.Show();
         }
+
+
+
 
     }
 }
