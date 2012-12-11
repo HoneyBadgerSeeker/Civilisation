@@ -1,0 +1,80 @@
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.exe.config
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.exe
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\TestWrapperAlgo_carte\bin\x86\Release\Wrapper_AlgorithmeCPP.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\TestWrapperAlgo_carte\bin\x86\Release\Wrapper_AlgorithmeCPP.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.csprojResolveAssemblyReference.cache
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.exe
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation2811\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.exe.config
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation2811\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.exe
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation2811\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation2811\TestWrapperAlgo_carte\bin\x86\Release\Wrapper_AlgorithmeCPP.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation2811\TestWrapperAlgo_carte\bin\x86\Release\Wrapper_AlgorithmeCPP.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation2811\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.csprojResolveAssemblyReference.cache
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation2811\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.exe
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation2811\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2811OKWRAPPER\Civilisation2811\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.exe.config
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2811OKWRAPPER\Civilisation2811\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2811OKWRAPPER\Civilisation2811\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2811OKWRAPPER\Civilisation2811\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2811OKWRAPPER\Civilisation2811\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2811OKWRAPPER\Civilisation2811\TestWrapperAlgo_carte\bin\x86\Release\Wrapper_AlgorithmeCPP.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2811OKWRAPPER\Civilisation2811\TestWrapperAlgo_carte\bin\x86\Release\Wrapper_AlgorithmeCPP.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2811OKWRAPPER\Civilisation2811\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.csprojResolveAssemblyReference.cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911\Civilisation2811\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.exe.config
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911\Civilisation2811\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911\Civilisation2811\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911\Civilisation2811\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911\Civilisation2811\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911\Civilisation2811\TestWrapperAlgo_carte\bin\x86\Release\Wrapper_AlgorithmeCPP.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911\Civilisation2811\TestWrapperAlgo_carte\bin\x86\Release\Wrapper_AlgorithmeCPP.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911\Civilisation2811\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.csprojResolveAssemblyReference.cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911_POIDSMOUCHE_NONOK\Civilisation2811\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.exe.config
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911_POIDSMOUCHE_NONOK\Civilisation2811\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911_POIDSMOUCHE_NONOK\Civilisation2811\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911_POIDSMOUCHE_NONOK\Civilisation2811\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911_POIDSMOUCHE_NONOK\Civilisation2811\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911_POIDSMOUCHE_NONOK\Civilisation2811\TestWrapperAlgo_carte\bin\x86\Release\Wrapper_AlgorithmeCPP.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911_POIDSMOUCHE_NONOK\Civilisation2811\TestWrapperAlgo_carte\bin\x86\Release\Wrapper_AlgorithmeCPP.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911_POIDSMOUCHE_NONOK\Civilisation2811\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.csprojResolveAssemblyReference.cache
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation3011_POIDSMOUCHE_OK\Civilisation0112\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.exe.config
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation3011_POIDSMOUCHE_OK\Civilisation0112\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.exe
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation3011_POIDSMOUCHE_OK\Civilisation0112\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation3011_POIDSMOUCHE_OK\Civilisation0112\TestWrapperAlgo_carte\bin\x86\Release\Wrapper_AlgorithmeCPP.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation3011_POIDSMOUCHE_OK\Civilisation0112\TestWrapperAlgo_carte\bin\x86\Release\Wrapper_AlgorithmeCPP.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation3011_POIDSMOUCHE_OK\Civilisation0112\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.csprojResolveAssemblyReference.cache
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation3011_POIDSMOUCHE_OK\Civilisation0112\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.exe
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation3011_POIDSMOUCHE_OK\Civilisation0112\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.exe.config
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestWrapperAlgo_carte\bin\x86\Release\Wrapper_AlgorithmeCPP.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestWrapperAlgo_carte\bin\x86\Release\Wrapper_AlgorithmeCPP.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.csprojResolveAssemblyReference.cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_03_12_12_interface\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.exe.config
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_03_12_12_interface\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_03_12_12_interface\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_03_12_12_interface\TestWrapperAlgo_carte\bin\x86\Release\Wrapper_AlgorithmeCPP.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_03_12_12_interface\TestWrapperAlgo_carte\bin\x86\Release\Wrapper_AlgorithmeCPP.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_03_12_12_interface\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.csprojResolveAssemblyReference.cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_03_12_12_interface\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_03_12_12_interface\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.exe.config
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestWrapperAlgo_carte\bin\x86\Release\Wrapper_AlgorithmeCPP.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestWrapperAlgo_carte\bin\x86\Release\Wrapper_AlgorithmeCPP.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.csprojResolveAssemblyReference.cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.exe.config
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.exe
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestWrapperAlgo_carte\bin\x86\Release\TestWrapperAlgo_carte.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestWrapperAlgo_carte\bin\x86\Release\Wrapper_AlgorithmeCPP.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestWrapperAlgo_carte\bin\x86\Release\Wrapper_AlgorithmeCPP.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.csprojResolveAssemblyReference.cache
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.exe
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestWrapperAlgo_carte\obj\x86\Release\TestWrapperAlgo_carte.pdb

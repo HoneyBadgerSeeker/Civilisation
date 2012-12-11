@@ -1,0 +1,9 @@
+c:\users\pilpo\documents\visual studio 2012\Projects\Civilisation\PremierTestUnitaire1311\obj\Debug\PremierTestUnitaire1311.csprojResolveAssemblyReference.cache
+C:\Users\Pilpo\documents\visual studio 2012\Projects\Civilisation\PremierTestUnitaire1311\bin\Debug\PremierTestUnitaire1311.dll
+C:\Users\Pilpo\documents\visual studio 2012\Projects\Civilisation\PremierTestUnitaire1311\bin\Debug\PremierTestUnitaire1311.pdb
+C:\Users\Pilpo\documents\visual studio 2012\Projects\Civilisation\PremierTestUnitaire1311\bin\Debug\Civilisation.exe
+C:\Users\Pilpo\documents\visual studio 2012\Projects\Civilisation\PremierTestUnitaire1311\bin\Debug\ModelingCivLib.dll
+C:\Users\Pilpo\documents\visual studio 2012\Projects\Civilisation\PremierTestUnitaire1311\bin\Debug\Civilisation.pdb
+C:\Users\Pilpo\documents\visual studio 2012\Projects\Civilisation\PremierTestUnitaire1311\bin\Debug\ModelingCivLib.pdb
+C:\Users\Pilpo\documents\visual studio 2012\Projects\Civilisation\PremierTestUnitaire1311\obj\Debug\PremierTestUnitaire1311.dll
+C:\Users\Pilpo\documents\visual studio 2012\Projects\Civilisation\PremierTestUnitaire1311\obj\Debug\PremierTestUnitaire1311.pdb

@@ -1,0 +1,131 @@
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.exe
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.csprojResolveAssemblyReference.cache
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_23_11_12_2123_algorandomnombrelisteOK\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_23_11_12_2123_algorandomnombrelisteOK\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_23_11_12_2123_algorandomnombrelisteOK\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_23_11_12_2123_algorandomnombrelisteOK\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_23_11_12_2123_algorandomnombrelisteOK\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_23_11_12_2123_algorandomnombrelisteOK\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_23_11_12_2123_algorandomnombrelisteOK\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.csprojResolveAssemblyReference.cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_23_11_12_2123_algorandomnombrelisteOK\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_23_11_12_2123_algorandomnombrelisteOK\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_27_11_12_monteur_avec_test\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_27_11_12_monteur_avec_test\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_27_11_12_monteur_avec_test\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_27_11_12_monteur_avec_test\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_27_11_12_monteur_avec_test\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_27_11_12_monteur_avec_test\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_27_11_12_monteur_avec_test\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.csprojResolveAssemblyReference.cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_27_11_12_monteur_avec_test\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_27_11_12_monteur_avec_test\Civilisation_22_11_12_bad\Civilisation\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.exe
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation2811\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.csprojResolveAssemblyReference.cache
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation2811\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation2811\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2811OKWRAPPER\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2811OKWRAPPER\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2811OKWRAPPER\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2811OKWRAPPER\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2811OKWRAPPER\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2811OKWRAPPER\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2811OKWRAPPER\Civilisation2811\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.csprojResolveAssemblyReference.cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2811OKWRAPPER\Civilisation2811\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2811OKWRAPPER\Civilisation2811\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911\Civilisation2811\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.csprojResolveAssemblyReference.cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911\Civilisation2811\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911\Civilisation2811\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911_POIDSMOUCHE_NONOK\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911_POIDSMOUCHE_NONOK\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911_POIDSMOUCHE_NONOK\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911_POIDSMOUCHE_NONOK\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911_POIDSMOUCHE_NONOK\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911_POIDSMOUCHE_NONOK\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911_POIDSMOUCHE_NONOK\Civilisation2811\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.csprojResolveAssemblyReference.cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911_POIDSMOUCHE_NONOK\Civilisation2811\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911_POIDSMOUCHE_NONOK\Civilisation2811\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911_POIDSMOUCHE_NONOK\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\Wrapper_AlgorithmeCPP.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation2911_POIDSMOUCHE_NONOK\Civilisation2811\TestUnitaireSurJoueur\bin\x86\Release\Wrapper_AlgorithmeCPP.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation3011_POIDSMOUCHE_OK\Civilisation0112\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation3011_POIDSMOUCHE_OK\Civilisation0112\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation3011_POIDSMOUCHE_OK\Civilisation0112\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.exe
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation3011_POIDSMOUCHE_OK\Civilisation0112\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation3011_POIDSMOUCHE_OK\Civilisation0112\TestUnitaireSurJoueur\bin\x86\Release\Wrapper_AlgorithmeCPP.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation3011_POIDSMOUCHE_OK\Civilisation0112\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation3011_POIDSMOUCHE_OK\Civilisation0112\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation3011_POIDSMOUCHE_OK\Civilisation0112\TestUnitaireSurJoueur\bin\x86\Release\Wrapper_AlgorithmeCPP.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation3011_POIDSMOUCHE_OK\Civilisation0112\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.csprojResolveAssemblyReference.cache
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation3011_POIDSMOUCHE_OK\Civilisation0112\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation3011_POIDSMOUCHE_OK\Civilisation0112\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestUnitaireSurJoueur\bin\x86\Release\Wrapper_AlgorithmeCPP.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestUnitaireSurJoueur\bin\x86\Release\Wrapper_AlgorithmeCPP.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.csprojResolveAssemblyReference.cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation0112\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_03_12_12_interface\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_03_12_12_interface\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_03_12_12_interface\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.exe
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_03_12_12_interface\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_03_12_12_interface\TestUnitaireSurJoueur\bin\x86\Release\Wrapper_AlgorithmeCPP.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_03_12_12_interface\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_03_12_12_interface\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_03_12_12_interface\TestUnitaireSurJoueur\bin\x86\Release\Wrapper_AlgorithmeCPP.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_03_12_12_interface\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.csprojResolveAssemblyReference.cache
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_03_12_12_interface\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_03_12_12_interface\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_03_12_12_interface\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_03_12_12_interface\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_03_12_12_interface\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_03_12_12_interface\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_03_12_12_interface\TestUnitaireSurJoueur\bin\x86\Release\Wrapper_AlgorithmeCPP.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_03_12_12_interface\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_03_12_12_interface\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_03_12_12_interface\TestUnitaireSurJoueur\bin\x86\Release\Wrapper_AlgorithmeCPP.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_03_12_12_interface\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.csprojResolveAssemblyReference.cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_03_12_12_interface\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_03_12_12_interface\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.exe
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestUnitaireSurJoueur\bin\x86\Release\Wrapper_AlgorithmeCPP.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestUnitaireSurJoueur\bin\x86\Release\Wrapper_AlgorithmeCPP.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.csprojResolveAssemblyReference.cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_07_12_12_aug_carac_ok\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestUnitaireSurJoueur\bin\x86\Release\TestUnitaireSurJoueur.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.exe
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestUnitaireSurJoueur\bin\x86\Release\Wrapper_AlgorithmeCPP.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestUnitaireSurJoueur\bin\x86\Release\Civilisation.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestUnitaireSurJoueur\bin\x86\Release\ModelingCivLib.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestUnitaireSurJoueur\bin\x86\Release\Wrapper_AlgorithmeCPP.pdb
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.csprojResolveAssemblyReference.cache
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.dll
+C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_aug_carac_ok\TestUnitaireSurJoueur\obj\x86\Release\TestUnitaireSurJoueur.pdb

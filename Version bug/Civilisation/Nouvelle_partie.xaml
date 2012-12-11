@@ -1,0 +1,61 @@
+﻿<Window x:Class="Civilisation.Nouvelle_partie"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Civilisation" Height="280" Width="476.542"
+        WindowStartupLocation="Manual" 
+        Left="300" Top="300">
+    <Grid>
+        <!-- Choix des joueurs -->
+        <CheckBox Content="Joueur 1" x:Name="chkActiveJ1" HorizontalAlignment="Left" Margin="10,45,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked_1_j1" Unchecked="CheckBox_UnChecked_1_j1"/>
+        <CheckBox Content="Joueur 2" x:Name="chkActiveJ2" HorizontalAlignment="Left" Margin="10,65,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked_2_j2" Unchecked="CheckBox_UnChecked_2_j2"/>
+        <CheckBox Content="Joueur 3" x:Name="chkActiveJ3" HorizontalAlignment="Left" Margin="10,85,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked_3_j3" Unchecked="CheckBox_UnChecked_3_j3"/>
+        <CheckBox Content="Joueur 4" x:Name="chkActiveJ4" HorizontalAlignment="Left" Margin="10,105,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked_4_j4" Unchecked="CheckBox_UnChecked_4_j4"/>
+        <Label Content="Sélection des joueurs" HorizontalAlignment="Left" Margin="7,10,0,0" VerticalAlignment="Top"/>
+       
+        <!-- Choix de la carte -->
+        <CheckBox x:Name="petite" Content="Petite" HorizontalAlignment="Left" Margin="10,168,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked_5_petite" Unchecked="CheckBox_UnChecked_5_petite"/>
+        <CheckBox x:Name="normale"  Content="Normale" HorizontalAlignment="Left" Margin="74,168,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked_6_normale" Unchecked="CheckBox_UnChecked_6_normale"/>
+
+        <Label Content="Sélection de la carte" HorizontalAlignment="Left" Margin="7,142,0,0" VerticalAlignment="Top"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="126" Margin="7,5,0,0" VerticalAlignment="Top" Width="443" CornerRadius="5" Opacity="0.5"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="58" Margin="7,136,0,0" VerticalAlignment="Top" Width="443" CornerRadius="5" Opacity="0.5"/>
+        <Button Content="Lancer la partie" HorizontalAlignment="Left" Margin="296,210,0,0" VerticalAlignment="Top" Width="131" Click="Button_Click_lancer_partie" Background="White"/>
+        
+        <!-- Joueur 1 -->
+        <Label Content="Nom :" HorizontalAlignment="Left" Margin="102,39,0,0" VerticalAlignment="Top"/>
+        <TextBox Name ="textbox_joueur1" HorizontalAlignment="Left" Height="18" Margin="141,42,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="68"/>
+        <Label Content="Civilisation :" HorizontalAlignment="Left" Margin="209,39,0,0" VerticalAlignment="Top"/>
+        <TextBox Name ="textbox_civilisation1" HorizontalAlignment="Left" Height="18" Margin="282,42,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="68"/>
+        <CheckBox Name="j1info" IsEnabled="{Binding ElementName=chkActiveJ1, Path=IsChecked}" Content="Info" HorizontalAlignment="Left" Margin="363,45,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked_7_j1" Unchecked="CheckBox_UnChecked_7_j1info"/>
+        <CheckBox Name="j1eii" IsEnabled="{Binding ElementName=chkActiveJ1, Path=IsChecked}" Content="Eii" HorizontalAlignment="Left" Margin="409,45,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked_8_j1" Unchecked="CheckBox_UnChecked_8_j1eii"/>
+        
+        <!-- Joueur 2 -->
+        <Label Content="Nom :" HorizontalAlignment="Left" Margin="102,59,0,0" VerticalAlignment="Top"/>
+        <TextBox Name ="textbox_joueur2" HorizontalAlignment="Left" Height="18" Margin="141,63,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="68"/>
+        <Label Content="Civilisation :" HorizontalAlignment="Left" Margin="209,59,0,0" VerticalAlignment="Top"/>
+        <TextBox Name ="textbox_civilisation2" HorizontalAlignment="Left" Height="18" Margin="282,63,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="68"/>
+        <CheckBox Name="j2info" IsEnabled="{Binding ElementName=chkActiveJ2, Path=IsChecked}" Content="Info" HorizontalAlignment="Left" Margin="363,65,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked_9_j2" Unchecked="CheckBox_UnChecked_9_j2info"/>
+        <CheckBox Name="j2eii" IsEnabled="{Binding ElementName=chkActiveJ2, Path=IsChecked}" Content="Eii" HorizontalAlignment="Left" Margin="409,65,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked_10_j2" Unchecked="CheckBox_UnChecked_10_j2eii"/>
+       
+        <!-- Joueur 3 -->
+        <Label Content="Nom :" HorizontalAlignment="Left" Margin="102,79,0,0" VerticalAlignment="Top"/>
+        <TextBox Name ="textbox_joueur3" HorizontalAlignment="Left" Height="18" Margin="141,83,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="68"/>
+        <Label Content="Civilisation :" HorizontalAlignment="Left" Margin="209,79,0,0" VerticalAlignment="Top"/>
+        <TextBox Name ="textbox_civilisation3" HorizontalAlignment="Left" Height="18" Margin="282,83,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="68"/>
+        <CheckBox Name="j3info" IsEnabled="{Binding ElementName=chkActiveJ3, Path=IsChecked}" Content="Info" HorizontalAlignment="Left" Margin="363,85,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked_11_j3" Unchecked="CheckBox_UnChecked_11_j3info"/>
+        <CheckBox Name="j3eii" IsEnabled="{Binding ElementName=chkActiveJ3, Path=IsChecked}" Content="Eii" HorizontalAlignment="Left" Margin="409,85,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked_12_j3" Unchecked="CheckBox_UnChecked_12_j3eii"/>
+
+        <!-- Joueur 4 -->
+        <Label Content="Nom :" HorizontalAlignment="Left" Margin="102,99,0,0" VerticalAlignment="Top"/>
+        <TextBox Name ="textbox_joueur4" HorizontalAlignment="Left" Height="18" Margin="141,103,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="68" />
+        <Label Content="Civilisation :" HorizontalAlignment="Left" Margin="209,99,0,0" VerticalAlignment="Top"/>
+        <TextBox Name ="textbox_civilisation4" HorizontalAlignment="Left" Height="18" Margin="282,103,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="68" />
+        <CheckBox Name="j4info" IsEnabled="{Binding ElementName=chkActiveJ4, Path=IsChecked}" Content="Info" HorizontalAlignment="Left" Margin="363,105,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked_13_j4" Unchecked="CheckBox_UnChecked_13_j4info"/>
+        <CheckBox Name="j4eii" IsEnabled="{Binding ElementName=chkActiveJ4, Path=IsChecked}" Content="Eii" HorizontalAlignment="Left" Margin="409,105,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked_14_j4" Unchecked="CheckBox_UnChecked_14_j4eii"/>
+        
+        <!-- Revenir sur le menu principal -->
+        <Button Content="Précédent" HorizontalAlignment="Left" Margin="32,210,0,0" VerticalAlignment="Top" Width="131" Click="Button_Click_2" Background="White"/>
+
+
+    </Grid>
+</Window>

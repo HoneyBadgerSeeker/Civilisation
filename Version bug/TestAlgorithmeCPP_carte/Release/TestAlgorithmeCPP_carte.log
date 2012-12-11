@@ -1,0 +1,21 @@
+﻿La génération a démarré 23/11/2012 17:13:45.
+     1>Projet "C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\TestAlgorithmeCPP_carte\TestAlgorithmeCPP_carte.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\TestAlgorithmeCPP_carte.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt algo_carte.cpp TestAlgorithmeCPP_carte.cpp
+         algo_carte.cpp
+     1>algo_carte.cpp(1): warning C4627: '#include <iostream>' : ignoré lors de la recherche d'une utilisation d'un en-tête précompilé
+                 Ajoutez la directive à 'stdafx.h' ou régénérez l'en-tête précompilé
+     1>algo_carte.cpp(2): warning C4627: '#include <time.h>' : ignoré lors de la recherche d'une utilisation d'un en-tête précompilé
+                 Ajoutez la directive à 'stdafx.h' ou régénérez l'en-tête précompilé
+     1>algo_carte.cpp(3): warning C4627: '#include "algo_carte.h"' : ignoré lors de la recherche d'une utilisation d'un en-tête précompilé
+                 Ajoutez la directive à 'stdafx.h' ou régénérez l'en-tête précompilé
+     1>algo_carte.cpp(48): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "stdafx.h"' à votre source ?
+         TestAlgorithmeCPP_carte.cpp
+     1>TestAlgorithmeCPP_carte.cpp(4): warning C4627: '#include "algo_carte.h"' : ignoré lors de la recherche d'une utilisation d'un en-tête précompilé
+                 Ajoutez la directive à 'stdafx.h' ou régénérez l'en-tête précompilé
+     1>TestAlgorithmeCPP_carte.cpp(13): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "stdafx.h"' à votre source ?
+     1>Génération du projet "C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_22_11_12_bad\Civilisation\TestAlgorithmeCPP_carte\TestAlgorithmeCPP_carte.vcxproj" terminée (Build cible(s)) -- ÉCHEC.
+
+ÉCHEC de la build.
+
+Temps écoulé 00:00:00.89

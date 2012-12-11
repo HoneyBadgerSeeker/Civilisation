@@ -1,0 +1,16 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly Wrapper_AlgorithmeCPP, Version=0.0.*, Culture=Langue indifférente (Pays indifférent): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Wrapper.Wrapper_Algo_carte: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    generationCarte(): PrivateScope, Public, HideBySig
+    cases_a_suggerees(Int32, Int32): PrivateScope, Public, HideBySig
+    rend_ressource_fer_une_case(Int32, Int32): PrivateScope, Public, HideBySig
+    rend_ressource_nourriture_une_case(Int32, Int32): PrivateScope, Public, HideBySig
+    rend_placement_joueurs(): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig

@@ -1,0 +1,10 @@
+c:\users\pilpo\documents\visual studio 2012\Projects\Civilisation\ModelingCivLib\bin\Debug\ModelingCivLib.dll
+c:\users\pilpo\documents\visual studio 2012\Projects\Civilisation\ModelingCivLib\bin\Debug\ModelingCivLib.pdb
+c:\users\pilpo\documents\visual studio 2012\Projects\Civilisation\ModelingCivLib\obj\Debug\ModelingCivLib.dll
+c:\users\pilpo\documents\visual studio 2012\Projects\Civilisation\ModelingCivLib\obj\Debug\ModelingCivLib.pdb
+C:\Users\Pilpo\documents\visual studio 2012\Projects\Civilisation\ModelingCivLib\obj\Debug\ModelingCivLib.csprojResolveAssemblyReference.cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\ModelingCivLib\obj\Debug\ModelingCivLib.csprojResolveAssemblyReference.cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\ModelingCivLib\obj\Debug\ModelingCivLib.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\ModelingCivLib\obj\Debug\ModelingCivLib.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\ModelingCivLib\bin\Debug\ModelingCivLib.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\ModelingCivLib\bin\Debug\ModelingCivLib.pdb

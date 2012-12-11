@@ -1,0 +1,5 @@
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\ModelingCivLib\bin\Release\ModelingCivLib.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\ModelingCivLib\bin\Release\ModelingCivLib.pdb
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\ModelingCivLib\obj\Release\ModelingCivLib.csprojResolveAssemblyReference.cache
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\ModelingCivLib\obj\Release\ModelingCivLib.dll
+C:\Users\aurelien\Desktop\Civilisation\Civilisation_22_11_12\Civilisation\ModelingCivLib\obj\Release\ModelingCivLib.pdb

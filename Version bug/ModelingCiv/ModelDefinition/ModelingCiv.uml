@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="44be692a-ca42-4c36-ae81-d29c523e041b"
+  name="ModelingCiv" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <ownedCommentsInternal>
+    <comment
+      Id="8a52d45b-d245-4c96-8b0c-e8455f456ff2">
+      <body>Ne pas oublier de gérer les bonus provenant des directeurs</body>
+    </comment>
+    <comment
+      Id="9ae297f2-cd1a-4a42-869f-be7301138e49">
+      <body>Décorateur pour les cases</body>
+    </comment>
+    <comment
+      Id="12a837f5-4b07-44ea-8bc0-725bd0ebab8e">
+      <body>Monteur pour la création de la partie</body>
+    </comment>
+    <comment
+      Id="e2a108cf-1473-4eb3-8f47-c28c65f1fe87">
+      <body>j'ai ajouté une compositon de monteurabstrait vers partie a la place d'une ---&gt; de monteur vers partie</body>
+    </comment>
+    <comment
+      Id="5d33ff18-0732-4a59-ac8d-03c78693ffa4">
+      <body>A remplir</body>
+    </comment>
+  </ownedCommentsInternal>
+  <appliedStereotypesInternal>
+    <stereotypeInstance
+      Id="e5d5124a-b939-4546-966f-b4fd750672c4"
+      name="namespace"
+      profile="CSharpProfile">
+      <propertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="b7a94323-d3c8-4e7e-bc09-228ca19488f3">
+          <propertyInstance
+            Id="f867b115-42c4-45c9-96ff-7270a60b2059"
+            name="BaseName" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="5278bf72-8584-45f9-bdf1-134e86503937">
+          <propertyInstance
+            Id="c79648ac-98a3-48bb-afc0-5a7d0d0b30e5"
+            name="ClrAttributes" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="642313c3-2d5a-459d-91f2-7c3eea3d8e11">
+          <propertyInstance
+            Id="4ffc22c0-cb82-4713-b56c-5e70ff535492"
+            name="Usings" />
+        </stereotypeInstanceHasPropertyInstances>
+      </propertyInstances>
+    </stereotypeInstance>
+    <stereotypeInstance
+      Id="6b0bb295-6a8a-44d9-a2c4-af1c64fdb881"
+      name="TextTemplateBindings"
+      profile="TextTemplateBindings">
+      <propertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="331c34cd-f3ae-46c2-9375-908e634e23cc">
+          <propertyInstance
+            Id="f98f7300-59c0-4706-a833-e901a0ea7092"
+            name="Alias"
+            value="ClassTemplate|EnumTemplate|InterfaceTemplate|StructTemplate" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="a2d477e0-54bb-4845-afd5-56f124259e27">
+          <propertyInstance
+            Id="3443d9cf-796c-4a8a-b8ec-79304dbbee0b"
+            name="TemplateFilePath"
+            value="ClassTemplate=C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4|EnumTemplate=C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\EnumTemplate.t4|InterfaceTemplate=C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4|StructTemplate=C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="fea017e7-4275-4469-a07e-44ab996618cb">
+          <propertyInstance
+            Id="e8d4bdac-7947-42c8-8bd2-12162540e05d"
+            name="ProjectPath"
+            value="ClassTemplate=..\ModelingCivLib\ModelingCivLib.csproj|EnumTemplate=..\ModelingCivLib\ModelingCivLib.csproj|InterfaceTemplate=..\ModelingCivLib\ModelingCivLib.csproj|StructTemplate=..\ModelingCivLib\ModelingCivLib.csproj" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="aac187af-d955-47c0-8bfe-2be7c1cbd996">
+          <propertyInstance
+            Id="e9f04bb6-2c69-42bb-bd98-87e5d36825e3"
+            name="TargetDirectory"
+            value="ClassTemplate=GeneratedCode\{PackageStructure}|EnumTemplate=GeneratedCode\{PackageStructure}|InterfaceTemplate=GeneratedCode\{PackageStructure}|StructTemplate=GeneratedCode\{PackageStructure}" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="47f0fcfe-8d28-4001-824b-b11ac71f74d1">
+          <propertyInstance
+            Id="6f01d778-bead-4dae-829d-1df16957194e"
+            name="TargetName"
+            value="ClassTemplate={Name}|EnumTemplate={Name}|InterfaceTemplate={Name}|StructTemplate={Name}" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="174a010b-3b5d-4954-8d77-5d0436114260">
+          <propertyInstance
+            Id="abc1d87e-e041-4e72-b74c-e84d93c96d96"
+            name="Overwrite"
+            value="ClassTemplate=True|EnumTemplate=True|InterfaceTemplate=True|StructTemplate=True" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="98a3713c-e79f-4049-a535-6cd0c39db7e9">
+          <propertyInstance
+            Id="8e4fd26f-dda0-410f-901c-8731f5ded39d"
+            name="Parameters" />
+        </stereotypeInstanceHasPropertyInstances>
+      </propertyInstances>
+    </stereotypeInstance>
+  </appliedStereotypesInternal>
+  <profileInstances>
+    <packageHasProfileInstances
+      Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b">
+      <profileInstance
+        Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791"
+        name="StandardProfileL2" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="29349502-908c-4fda-9054-c48619c59ed0">
+      <profileInstance
+        Id="532ea607-fb19-44b8-8502-3351b05452be"
+        name="StandardProfileL3" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="4c04158c-5a86-4812-967f-5a79212738f9">
+      <profileInstance
+        Id="52240298-cbcb-4b42-a9a4-d6b0b4cc52e1"
+        name="CSharpProfile" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="8fd47705-f5e8-4c5b-998e-9ade95974bdb">
+      <profileInstance
+        Id="5901fc75-74f0-4737-aad3-91170543ce3f"
+        name="TextTemplateBindings" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="2a681893-e7c0-4734-9cee-53b24fd34f4c"
+        name="Direction" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="2ec8a082-0a49-49c8-932d-58e88d8c9634"
+        LastKnownName="PInterfaces_Fabrique_Abstraite"
+        LastKnownLocation="Package_1526.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="878638bb-dd7c-4036-b0c5-21f90a38e3cc"
+        name="Case" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="e2e98993-457d-493c-a21a-6a8f4a6506d6"
+        name="Unite" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="e5cb94ad-a55f-4f48-bb12-962c9c15869d"
+        name="Joueur" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="111440a3-eec9-4c0c-8f45-88217a2bee80"
+        name="Hashtable" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="f0b4e607-a434-4840-a6ff-20f810aef448"
+        name="Civilisation" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="ce9dffd8-ebfb-4521-b437-a9a5ad0a5a3c"
+        name="ModelingProject1::Case::Case" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="259da544-b382-434d-9e03-7d07884b6261"
+        name="Partie" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="6404f318-1169-4cba-af3a-15833a673575"
+        LastKnownName="PImplEii"
+        LastKnownLocation="Package_1527.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="bccdbd93-6966-4e98-bbf8-5535837bf1f1"
+        LastKnownName="PImplInfo"
+        LastKnownLocation="Package1_1527.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="e5d61922-ce6c-4f9c-a3c7-e1d4ec06be8f"
+        LastKnownName="PInterfaces_Fabrique_Abstraite"
+        LastKnownLocation="Package2_1527.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="b29ce472-dbed-421a-b1e4-9a4792c1bc78"
+        LastKnownName="PCivilisation"
+        LastKnownLocation="Package3_1527.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="2b777dc8-44d7-439c-b83a-4bb577af70fe"
+        LastKnownName="PCase"
+        LastKnownLocation="Package4_1527.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="00473668-ceb8-44bf-85c8-0b86f87c198f"
+        LastKnownName="PCarte"
+        LastKnownLocation="Package5_1527.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="97acbcce-38f2-4934-971c-1a3cf66a51f8"
+        LastKnownName="PMonteurPartie"
+        LastKnownLocation="Package6_1527.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="04048a53-a365-431b-b568-a82ebf10d35d"
+        LastKnownName="PPartie"
+        LastKnownLocation="Package7_1527.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="2572ee35-549b-4668-9246-d3601e09120f"
+        LastKnownName="PConstantescc"
+        LastKnownLocation="Package8_1527.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="2819d461-1a99-4923-999c-2698d5644997"
+        LastKnownName="PJoueur"
+        LastKnownLocation="Package9_1527.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="e9ecda59-f028-406b-82fd-5828c68db90c"
+        LastKnownName="PConstantes"
+        LastKnownLocation="Package_1559.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="ffe9e600-d402-4adf-af8e-9569f6c22b56"
+        LastKnownName="PRelationVue"
+        LastKnownLocation="Package_1031.uml" />
+    </packageHasNamedElement>
+  </packagedElements>
+  <primitiveType
+    Id="220a3521-e091-4221-bae9-3ef9018e845c"
+    name="Integer"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="8943dc84-709e-4f62-b15a-a3273aa6f165"
+    name="Boolean"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="59259974-6d55-42c6-b7bd-763d77ac8ef9"
+    name="String"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="3ab42e7d-4969-445a-b209-471f5cb8209c"
+    name="UnlimitedNatural"
+    isAbstract="false"
+    isLeaf="false" />
+</modelStoreModel>
