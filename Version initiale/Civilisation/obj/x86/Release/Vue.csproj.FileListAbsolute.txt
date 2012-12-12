@@ -211,3 +211,6 @@ C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_fenet
 C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_fenetre_prod_ok\Civilisation\obj\x86\Release\Civilisation.g.resources
 C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_fenetre_prod_ok\Civilisation\obj\x86\Release\Civilisation.Properties.Resources.resources
 C:\Users\Pilpo\Documents\Visual Studio 2012\Projects\Civilisation_07_12_12_fenetre_prod_ok\Civilisation\obj\x86\Release\Vue.csproj.GenerateResource.Cache
+D:\Git\Civilisation\Version initiale\Civilisation\bin\x86\Release\Civilisation.exe.config
+D:\Git\Civilisation\Version initiale\Civilisation\obj\x86\Release\Civilisation.exe
+D:\Git\Civilisation\Version initiale\Civilisation\obj\x86\Release\Civilisation.pdb
